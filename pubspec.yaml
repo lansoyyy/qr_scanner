@@ -38,6 +38,9 @@ dependencies:
   fluttertoast:
   get_storage:
   flutter_spinkit:
+  qr_code_scanner: ^1.0.0
+  flutter_barcode_scanner:
+  awesome_dialog:
 
 dev_dependencies:
   flutter_test:
