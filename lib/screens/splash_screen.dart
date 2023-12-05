@@ -35,7 +35,7 @@ class _ScreenState extends State<SplashScreen> {
             child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            SpinKitDoubleBounce(
+            SpinKitFadingFour(
               color: primary,
               size: 280.0,
             ),

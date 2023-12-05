@@ -1,3 +1,3 @@
 import 'package:flutter/material.dart';
 
-final primary = Colors.orange[600];
+final primary = Colors.blue[700];
