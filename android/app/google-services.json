@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928127195723",
+    "project_id": "amusement-2e6a5",
+    "storage_bucket": "amusement-2e6a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928127195723:android:746a0b9381e7a3e1ec0bce",
+        "android_client_info": {
+          "package_name": "com.example.qr_scanner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPBRmEqDZgBmxhbmiCvsDFYY6A30fBkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
